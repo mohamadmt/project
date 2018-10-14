@@ -2,3 +2,4 @@ node-modules/
 js/
 *.txt
 !a.txt
+css/
